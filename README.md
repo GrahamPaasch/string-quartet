@@ -7,7 +7,7 @@ I'm thinking top down isomorphic style, like ultima 6 or Disco Elysium. It's mai
 1. Someone is better than you. You were kicked out of the quartet and replaced by a 10 year old prodigy for your unacceptable performance on the and of beat 3 in measure 259. It's marked martele, idiot. Game over.
 2. Nobody likes classical music. After your 100th volunteer gig at a local church, you literially die of starvation. Game over.
 3. Your viola cost $100,000 and now it's broken. You can't afford to have it repaired. You simply don't have a Viola now. Game over.
-4. Asshole 1st violin player. Your 1st violinist won't stop doing cocaine and being lewd with female booking agents. Game over.
+4. Asshole 1st violin player. Your 1st violinist won't stop doing cocaine and being lewd with female, and male, booking agents. Game over.
 5. Grad school. You are stuck in grad school. Game over.
 6. Godel's rehearsal time incompleteness. The formal axiomatic theories of when each member of the quartet is available to rehearse are fundamentally unprovable within the system. No rehersals occur. Game over.
 7. Bad performance. You butchered Pachelbel's cannon at a wedding. Game over.
