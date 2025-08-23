@@ -28,3 +28,4 @@ Character profiles
 8. Idiot savant. There's drool on your copy of the 24 Paganini Caprices, transcribed for Viola. You learned it all in one night then broke your Viola by bashing it on your head. You now always have to wear a helmet.
 9. Tragic accident. You were burned alive, lost your legs in a subway incident, or barely survied polio as a kid. To cope, you practice. You practice a lot.
 10. Hilbilly. Vyola' sure is perty. Lisen to dis, uhuh, little fiddle tune here. * Plays all 41 campagnoli caprices flawlessly back to back *
+11. The person who did all the right things. You kind of suck honestly.
