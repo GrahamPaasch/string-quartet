@@ -19,7 +19,7 @@ I'm thinking top down isomorphic style, like ultima 6 or Disco Elysium. It's mai
 
 Character profiles
 1. Asian prodigy. You are young. You learned instantly at a glance every piece of music you ever heard or saw. You also play piano. Your parents are doctors. They are disappointed in you.
-2. Competition winner. You nailed it at the Primerose competition. Congrats, you're hired!
+2. Competition winner. You nailed it at the Primrose competition. Congrats, you're hired!
 3. Music school gremlin. You have 10 different kinds of music degrees for the 10 most prestigous music schools all over the world. You're in financial debt.
 4. Privileged kid. You went to Curtis at age 5. You weren't very good. Your father was often frusturated teaching you and even thought carefully at times about whether it was appropriate for him to be privileging his own children in this manner.
 5. Random person out of the blue that plays better than everyone else. Who are you? Nobody knows. Do you even know? You're so generic looking. You look like any random person off the street. Why do you play so well? It's so weird. Where did you come from? What? I've never heard of that.
